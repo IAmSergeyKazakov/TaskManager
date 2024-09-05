@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource lang="1" prefix="/img"/>
+    <qresource prefix="/">
+        <file>img/addPerformerIcon.png</file>
+        <file>img/backgroundPhoto.png</file>
+        <file>img/completedTaskIcon.png</file>
+        <file>img/infoIcon.png</file>
+        <file>img/plusChat.png</file>
+        <file>img/refreshChatIcon.png</file>
+        <file>img/sendMessageIcon.png</file>
+        <file>img/settingsIcon.png</file>
+        <file>img/arrowComboBoxIcon.png</file>
+        <file>img/backgroundPhotoOnlyForMain.png</file>
+        <file>img/backgroundPhotoSolarSystem_OnRegistration.png</file>
+        <file>img/backgroundPhotoSolarSystem_OnMain.png</file>
+        <file>img/backgroundPhotoSolarSystem_withoutSun.png</file>
+        <file>img/searchOnMainIcon.png</file>
+        <file>img/lightningIconForComboBox.png</file>
+        <file>img/turtleIconForComboBox.png</file>
+        <file>img/chatIconForCombobox.png</file>
+        <file>img/userIconForCombobox.png</file>
+        <file>img/TMlogo.png</file>
+    </qresource>
+</RCC>
